@@ -4,3 +4,5 @@
 
 TOKEN = 'Ваш токен'
 WEATHER_API_KEY = 'Ваш ключ'
+THE_CAT_API_KEY = 'Ваш ключ'
+NASA_API_KEY = 'Ваш ключ'
